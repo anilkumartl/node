@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anilkumartl/Mytest_node.git"
+    "url": "git+https://github.com/anilkumartl/node.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anilkumartl/Mytest_node/issues"
+    "url": "https://github.com/anilkumartl/node/issues"
   },
-  "homepage": "https://github.com/anilkumartl/Mytest_node#readme",
+  "homepage": "https://github.com/anilkumartl/node#readme",
   "dependencies": {
     "heroku": "^7.60.2",
     "nodemon": "^2.0.19"
