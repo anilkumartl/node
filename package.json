@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilkumartl/Mytest_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilkumartl/Mytest_node/issues"
+  },
+  "homepage": "https://github.com/anilkumartl/Mytest_node#readme",
+  "dependencies": {
+    "heroku": "^7.60.2",
+    "nodemon": "^2.0.19"
+  }
+}
