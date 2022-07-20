@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/anilkumartl/node#readme",
   "dependencies": {
-    "heroku": "^7.60.2",
     "nodemon": "^2.0.19"
   }
 }
